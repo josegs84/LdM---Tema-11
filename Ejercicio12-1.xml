@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Ejercicio12-1.xsl" type="text/xsl"?>
+<clientes>
+	<cliente>
+		<nombre>Jose Fernandez</nombre>
+		<direccion>c/ Falsa, 123 Alicante</direccion>
+		<telefono>99123123</telefono>
+	</cliente>
+	<cliente>
+		<nombre>Anatolio Pérez</nombre>
+		<direccion>c/ Chiquilicuatre, 22 Aspe (Alicante)</direccion>
+		<telefono>98456456</telefono>
+	</cliente>
+	<cliente>
+		<nombre>Paco Jones</nombre>
+		<direccion>Av. de los Sobres, 88 Alicante</direccion>
+		<telefono>97789789</telefono>
+	</cliente>
+</clientes>
